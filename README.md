@@ -1,4 +1,9 @@
-# RHG_Gestao_Empresarial
+# Simulação de demanda a partir de movimentações
+
+O script Python prepara um CSV de movimentações, filtra abastecimentos e agrega quantidades por produto e intervalo de tempo.
+
+- [Simulador_Novo_v15.py](Simulador_Novo_v15.py)
+
 ## Ricardo Haus Guembarovski
 
 * Electrical Engineer (State University of Santa Catarina) 
@@ -62,4 +67,4 @@ For inquiries or to learn more about our services, feel free to reach out to us:
 
 You can also follow us on LinkedIn: [https://www.linkedin.com/in/ricardo-haus-guembarovski-3777ba8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTMdX846PSNSCglwpYlYaEQ%3D%3D](https://www.linkedin.com/in/ricardo-haus-guembarovski-3777ba8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTMdX846PSNSCglwpYlYaEQ%3D%3D) for updates and industry insights.
 
-We look forward to collaborating with you and helping your business thrive! 
+We look forward to collaborating with you and helping your business thrive!
